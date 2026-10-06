@@ -74,37 +74,33 @@ The executive dashboard includes interactive slicers for:
 
 These slicers are connected to the underlying PivotTables and PivotCharts, allowing users to dynamically filter the dashboard.
 
-## 📈 Key Dashboard Components
+## 📊 Dashboard Screenshots
 
 ### Executive Dashboard
-
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard](screenshots/executive_dashboard.png)
 
 ### Category & Product Performance
-
-![Category & Product Performance](screenshots/category-product-dashboard.png)
+![Category & Product Performance](screenshots/category_product_dashboard.png)
 
 ### Order Status & Revenue Loss
-
-![Order Status & Revenue Loss](screenshots/order-status-dashboard.png)
+![Order Status & Revenue Loss](screenshots/order_status_dashboard.png)
 
 ### Payment, Fulfillment & Geographic Performance
+![Payment, Fulfillment & Geographic Performance](screenshots/payment_fulfillment_dashboard.png)
 
-![Payment, Fulfillment & Geographic Performance](screenshots/payment-fulfillment-dashboard.png)
+### Sales & Profit Analysis
+![Sales & Profit Analysis](screenshots/sales_profit_dashboard.png)
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
-```text
 amazon-india-sales-dashboard/
 │
 ├── README.md
-├── Amazon_India_Sales_Dashboard.xlsx
+├── Amazon_Sales_Data_India.xlsx
 │
-├── screenshots/
-│   ├── executive-dashboard.png
-│   ├── category-product-dashboard.png
-│   ├── order-status-dashboard.png
-│   └── payment-fulfillment-dashboard.png
-│
-└── data/
-    └── amazon_india_sales_data.xlsx
+└── screenshots/
+    ├── executive_dashboard.png
+    ├── category_product_dashboard.png
+    ├── order_status_dashboard.png
+    ├── payment_fulfillment_dashboard.png
+    └── sales_profit_dashboard.png
