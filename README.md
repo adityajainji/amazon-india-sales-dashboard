@@ -93,7 +93,7 @@ These slicers are connected to the underlying PivotTables and PivotCharts, allow
 
 ## 📁 Repository Structure
 
-amazon-india-sales-dashboard/
+Amazon_Sales_Data_India.xlsx/
 │
 ├── README.md
 ├── Amazon_Sales_Data_India.xlsx
