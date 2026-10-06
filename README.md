@@ -92,7 +92,7 @@ These slicers are connected to the underlying PivotTables and PivotCharts, allow
 ![Sales & Profit Analysis](screenshots/sales_profit_dashboard.png)
 
 ## 📁 Repository Structure
-
+```text
 Amazon_Sales_Data_India.xlsx/
 │
 ├── README.md
@@ -104,3 +104,4 @@ Amazon_Sales_Data_India.xlsx/
     ├── order_status_dashboard.png
     ├── payment_fulfillment_dashboard.png
     └── sales_profit_dashboard.png
+```
